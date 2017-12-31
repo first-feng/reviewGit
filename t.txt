@@ -9,3 +9,5 @@
 
 在分支dev上增加内容
 
+测试fast forward
+
